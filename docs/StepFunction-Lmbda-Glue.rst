@@ -70,7 +70,7 @@ Step 2 - Configure your state machine
 
 1) LambdaInvokePolicy
 
-.. code-block:jason
+.. code-block:: json
 
    {
     "Version": "2012-10-17",
@@ -94,11 +94,11 @@ Step 2 - Configure your state machine
             "Resource": "*"
           }
         ]
-     }
+   }
      
 2) GlueInvokePolicy
 
-.. code-block::Jason
+.. code-block:: json
 
    {
      "Version": "2012-10-17",
@@ -142,6 +142,7 @@ Step 2 - Configure your state machine
 
 
 Step 3 - Start new execution as follow.
+++++++++++++++++++++++++++++++++++++++++
 
 - Click on state machine which you created and then click on ``Start Execution``
 

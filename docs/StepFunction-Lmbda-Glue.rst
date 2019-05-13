@@ -159,7 +159,7 @@ Step 3 - Start new execution as follow.
    :height: 300px
    :alt: alternate text
    
-- once u start execution your connected lambda function and glue job started running
+- once you start execution your connected lambda function and glue job started running
 
 
 .. image:: images/step15.png

@@ -36,15 +36,15 @@ Step 2 - Configure your state machine
 - Create IAM role - Select role from IAM console
 
 .. image:: images/step3.png
-   :width: 500px
-   :height: 300px
+   :width: 350px
+   :height: 100px
    :alt: alternate text
    
 - Click on ``Create Role``
 
 .. image:: images/step4.png
-   :width: 500px
-   :height: 300px
+   :width: 350px
+   :height: 100px
    :alt: alternate text
    
 - Sletect ``Step Function`` as a AWS service and click on ``Next:Permission``
@@ -115,8 +115,8 @@ Step 2 - Configure your state machine
 - Attache the policies to role 
 
 .. image:: images/step6.png
-   :width: 500px
-   :height: 300px
+   :width: 350px
+   :height: 100px
    :alt: alternate text
 
 - review and name the role and create it.
